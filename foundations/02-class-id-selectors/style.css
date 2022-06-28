@@ -1,0 +1,19 @@
+.oddNumber{
+    background-color: lightpink;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#secondNumber{
+    color: blue;
+    font-size: 36px;
+}
+
+.coolNumber{
+    font-size: 24px;
+}
+
+#fourthNumber{
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
